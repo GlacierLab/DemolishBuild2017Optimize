@@ -9,7 +9,7 @@
 	  <Authors>Qinlili</Authors>
 	  <Company>GlacierLab</Company>
 	  <UseWindowsForms>true</UseWindowsForms>   
-    <Platforms>x64</Platforms>
+    <Platforms>x64;x86</Platforms>
   </PropertyGroup>
 
   <ItemGroup>

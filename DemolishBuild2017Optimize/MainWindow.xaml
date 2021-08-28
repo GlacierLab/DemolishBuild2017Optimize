@@ -14,7 +14,7 @@
         <Label Content="解锁帧率 Unlock Framerate" HorizontalAlignment="Left" Margin="10,61,0,0" VerticalAlignment="Top" Width="154.42666666666" Height="25.9"/>
         <Button x:Name="Unlock" Content="移除帧率限制 Remove Framerate Lock" HorizontalAlignment="Center" Margin="0,87,0,0" VerticalAlignment="Top" Width="284" Height="19.96"/>
         <Label x:Name="statusLabel" Content="初始化...&#13;Initializing..." HorizontalAlignment="Center" Margin="0,112,0,0" VerticalAlignment="Top" Height="42" Width="284" FontWeight="Bold"/>
-        <Button x:Name="Folder" Content="更换目录 Select Folder" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Width="284" Height="20"/>
+        <Button x:Name="Folder" Content="启动游戏 Launch Game" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Width="284" Height="20" Background="#FFFEBDBD"/>
 
     </Grid>
 </Window>

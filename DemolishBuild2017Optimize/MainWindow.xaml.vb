@@ -58,7 +58,8 @@ Class MainWindow
     End Sub
 
     Private Sub Folder_Click(sender As Object, e As RoutedEventArgs) Handles Folder.Click
-        ChooseFolder()
+        Process.Start("demolish.exe")
+        End
     End Sub
     Private Sub ChooseFolder()
         Dim f As New FolderBrowserDialog
